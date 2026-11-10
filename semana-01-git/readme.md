@@ -41,7 +41,7 @@ Ao tentar integrar as branches, o Git identificou o conflito e não conseguiu re
 
 Para resolver, o arquivo foi aberto no VS Code, os marcadores de conflito foram identificados e removidos(sinais como "<,> e ="), e as duas informações foram mantidas no README (do Teste1, html e css, e do Teste 2, angular). Depois, a alteração foi adicionada e registrada com um commit. O que resultou em uma integração na main, das branchs teste1 e teste 2, ficando assim:
 
-![Soluçãodo erro](imagens/conflito_solucao.png)
+![Soluçãodo erro](.imagens/conflito_solucao.png)
 
 Depois desse erro, alterei os dados para as informações certas (mantendo apenas a semana 2 como html e css).
 
