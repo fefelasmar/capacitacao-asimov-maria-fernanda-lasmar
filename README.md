@@ -6,9 +6,7 @@ Olá! Seja bem-vindo(a) ao meu GitHub!
 
 Sou estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá (UNIFEI), com interesse em desenvolvimento de software, tecnologia e inovação.
 
-Atualmente, participo da Asimov, onde desenvolvi projetos relacionados à criação de sites, desenvolvimento web e agora estou me aprofundando na area de desktop. Também participo do projeto de competição, Beyond Aeroespace Departmen, onde atuei por um ano na área de sistemas eletrônicos e agora atuo na área de marketing e design.
-
-Gosto de aprender novas ferramentas, explorar diferentes áreas da tecnologia e transformar ideias em soluções práticas.
+Atualmente, participo da Asimov, onde desenvolvi projetos relacionados à criação de sites, desenvolvimento web e agora estou me aprofundando na area de desenvolvimento de aplicações desktop. Também participo do projeto de competição, Beyond Aeroespace Departmen, onde atuei por um ano na área de sistemas eletrônicos e agora atuo na área de marketing e design.
 
 ---
 
@@ -17,7 +15,7 @@ Gosto de aprender novas ferramentas, explorar diferentes áreas da tecnologia e 
 **Universidade Federal de Itajubá (UNIFEI)**
 
 - Engenharia Controle e Automação
-- 2025 – Em andamento
+- Início em 2025 – Em andamento
 - Campus Itajubá – MG
 
 ## Experiências e participação
@@ -31,7 +29,7 @@ Gosto de aprender novas ferramentas, explorar diferentes áreas da tecnologia e 
 
 **Beyond Rocket Design — UNIFEI**
 
-- Participação em projeto universitário de desenvolvimento de foguetes.
+- Participação em projeto de competição universitário de desenvolvimento de foguetes.
 - Contato com sistemas eletrônicos e tecnologias embarcadas.
 - Desenvolvimento e aprendizado em projetos de telemetria e eletrônica.
 - Criação e publicação de posts que elevem o projeto.
@@ -63,8 +61,8 @@ Este repositório reúne as atividades, exercícios e projetos desenvolvidos dur
 
 | Semana | Conteúdo | Repositório |
 |---|---|---|
-| 01 | Git e GitHub | [Acessar](./semana-01-git/) |
-| 02 | HTML e CSS | [Acessar](./semana-02-html-css/) |
+| 01 | Git e GitHub | [Acessar](https://github.com/fefelasmar/capacitacao-asimov-maria-fernanda-lasmar/tree/main/capacitacao_semana1) |
+
 
 ## Contato
 
