@@ -62,7 +62,7 @@ Este repositório reúne as atividades, exercícios e projetos desenvolvidos dur
 | Semana | Conteúdo | Repositório |
 |---|---|---|
 | 01 | Git e GitHub | [Acessar](https://github.com/fefelasmar/capacitacao-asimov-maria-fernanda-lasmar/tree/main/capacitacao_semana1) |
-
+| 02 | Angular | [Acessar](#) |
 
 ## Contato
 
