@@ -36,12 +36,12 @@ O conflito aconteceu porque as duas branches modificaram a mesma linha do arquiv
 
 Ao tentar integrar as branches, o Git identificou o conflito e não conseguiu realizar a junção automaticamente. Como indicado na foto, a seguir:
 
-![Erro de conflito durante o merge](./semana01-git/imagens/conflito_merge.png)
+![Erro de conflito durante o merge](./semana-01-git/imagens/erro1.png)
 
 
 Para resolver, o arquivo foi aberto no VS Code, os marcadores de conflito foram identificados e removidos(sinais como "<,> e ="), e as duas informações foram mantidas no README (do Teste1, html e css, e do Teste 2, angular). Depois, a alteração foi adicionada e registrada com um commit. O que resultou em uma integração na main, das branchs teste1 e teste 2, ficando assim:
 
-![Soluçãodo erro](./semana-01-git/imagens/conflito_solucao.png)
+![Soluçãodo erro](./semana-01-git/imagens/erro2.png)
 
 Depois desse erro, alterei os dados para as informações certas (mantendo apenas a semana 2 como html e css).
 
