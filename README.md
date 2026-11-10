@@ -12,7 +12,7 @@ Gosto de aprender novas ferramentas, explorar diferentes áreas da tecnologia e 
 
 ---
 
-## 🎓 Formação acadêmica
+## Formação acadêmica
 
 **Universidade Federal de Itajubá (UNIFEI)**
 
@@ -20,7 +20,7 @@ Gosto de aprender novas ferramentas, explorar diferentes áreas da tecnologia e 
 - 2025 – Em andamento
 - Campus Itajubá – MG
 
-## 💼 Experiências e participação
+## Experiências e participação
 
 **Asimov — Desenvolvimento de Sites**
 
@@ -37,7 +37,7 @@ Gosto de aprender novas ferramentas, explorar diferentes áreas da tecnologia e 
 - Criação e publicação de posts que elevem o projeto.
 
 
-## 🛠️ Conhecimentos técnicos
+## Conhecimentos técnicos
 
 | Área | Tecnologias e ferramentas |
 |---|---|
@@ -47,7 +47,7 @@ Gosto de aprender novas ferramentas, explorar diferentes áreas da tecnologia e 
 | Desenvolvimento | Python |
 | Ferramentas | VS Code, Elementor |
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 **Beyond Rocket Design**
 
@@ -57,7 +57,7 @@ Projeto universitário voltado ao desenvolvimento de foguetes, envolvendo difere
 
 Participação em projetos de criação e reformulação de sites, trabalhando com estrutura, interfaces e experiência do usuário.
 
-## 📚 Capacitação Asimov
+## Capacitação Asimov
 
 Este repositório reúne as atividades, exercícios e projetos desenvolvidos durante minha capacitação na Asimov.
 
@@ -66,7 +66,7 @@ Este repositório reúne as atividades, exercícios e projetos desenvolvidos dur
 | 01 | Git e GitHub | [Acessar](./semana-01-git/) |
 | 02 | HTML e CSS | [Acessar](./semana-02-html-css/) |
 
-## 📫 Contato
+## Contato
 
 - **GitHub:** [Meu perfil](https://github.com/fefelasmar)
 - **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/maria-fernanda-49491b380/)
