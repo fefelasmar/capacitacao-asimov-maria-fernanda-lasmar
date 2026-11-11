@@ -60,20 +60,6 @@ Durante a atividade, foi provocado intencionalmente um conflito de merge entre a
 
 O conflito aconteceu porque as duas branches modificaram a mesma linha do arquivo `README.md` principal, mas com conteúdos diferentes. Na `Teste1`, foi adicionada uma referência ao Angular, enquanto na `Teste2` foi adicionada uma referência a HTML e CSS.
 
-Ao tentar integrar as branches, o Git identificou o conflito e não conseguiu realizar a junção automaticamente.
-
-### Identificação do conflito
-
-O VS Code apresentou os marcadores de conflito no arquivo, indicando os trechos que precisavam ser analisados e resolvidos.
-
-![Erro de conflito durante o merge](./imagens/erro1.png)
-
-## Resolução de conflito de merge
-
-Durante a atividade, foi provocado intencionalmente um conflito de merge entre as branches `Teste1` e `Teste2`.
-
-O conflito aconteceu porque as duas branches modificaram a mesma linha do arquivo `README.md` principal, mas com conteúdos diferentes. Na `Teste1`, foi adicionada uma referência ao Angular, enquanto na `Teste2` foi adicionada uma referência a HTML e CSS.
-
 Ao tentar integrar as branches, o Git identificou o conflito e não conseguiu realizar a junção automaticamente. Como indicado na foto, a seguir:
 
 ![Erro de conflito durante o merge](./imagens/erro1.png)
