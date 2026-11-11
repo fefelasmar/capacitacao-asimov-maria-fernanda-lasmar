@@ -79,4 +79,4 @@ Além das atividades da capacitação, desenvolvi um currículo online utilizand
 
 O projeto reúne minhas informações acadêmicas, habilidades e experiências em uma página web.
 
-🔗 [Acessar págona do currículo](file:///C:/Users/Fefe%20Lasmar/OneDrive/Desktop/faculdade/asimov/desk/fefelasmar.github.io/index.html#home)
+🔗 [Acessar págona do currículo](#)
