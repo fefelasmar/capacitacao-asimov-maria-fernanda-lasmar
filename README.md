@@ -61,12 +61,9 @@ Este repositório reúne as atividades, exercícios e projetos desenvolvidos dur
 
 | Semana | Conteúdo | Repositório |
 |---|---|---|
-| 01 | Git e GitHub | [Acessar](https://github.com/fefelasmar/capacitacao-asimov-maria-fernanda-lasmar/tree/main/capacitacao_semana1) |
-<<<<<<< HEAD
-| 02 | HTML & CSS | [Acessar](#) |
-=======
-| 02 | Angular | [Acessar](#) |
->>>>>>> Teste1
+| 01 | Git e GitHub | [Acessar](https://github.com/fefelasmar/capacitacao-asimov-maria-fernanda-lasmar/tree/main/semana-01-git) |
+| 02 | HTML & CSS | [Acessar](https://github.com/fefelasmar/capacitacao-asimov-maria-fernanda-lasmar/tree/main/semana-02-html_css) |
+ 
 
 ## Contato
 
@@ -76,3 +73,14 @@ Este repositório reúne as atividades, exercícios e projetos desenvolvidos dur
 
 ---
 
+## Resolução de conflito de merge
+
+Durante a atividade, foi provocado intencionalmente um conflito de merge entre as branches `Teste1` e `Teste2`.
+
+O conflito aconteceu porque as duas branches modificaram a mesma linha do arquivo `README.md` principal, mas com conteúdos diferentes. Na `Teste1`, foi adicionada uma referência ao Angular, enquanto na `Teste2` foi adicionada uma referência a HTML e CSS.
+
+Ao tentar integrar as branches, o Git identificou o conflito e não conseguiu realizar a junção automaticamente.
+
+Para resolver, o arquivo foi aberto no VS Code, os marcadores de conflito foram identificados e removidos, e as duas informações foram mantidas no README. Depois, a alteração foi adicionada e registrada com um commit utilizando o padrão Conventional Commits.
+
+Essa atividade ajudou a compreender como o Git identifica alterações conflitantes e como realizar sua resolução manualmente.
