@@ -71,16 +71,12 @@ Este repositório reúne as atividades, exercícios e projetos desenvolvidos dur
 - **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/maria-fernanda-49491b380/)
 - **E-mail:** fecostalasmar@gmail.com
 
----
+- - - 
 
-## Resolução de conflito de merge
+## Projeto extra: Currículo Online
 
-Durante a atividade, foi provocado intencionalmente um conflito de merge entre as branches `Teste1` e `Teste2`.
+Além das atividades da capacitação, desenvolvi um currículo online utilizando um repositório próprio no GitHub.
 
-O conflito aconteceu porque as duas branches modificaram a mesma linha do arquivo `README.md` principal, mas com conteúdos diferentes. Na `Teste1`, foi adicionada uma referência ao Angular, enquanto na `Teste2` foi adicionada uma referência a HTML e CSS.
+O projeto reúne minhas informações acadêmicas, habilidades e experiências em uma página web.
 
-Ao tentar integrar as branches, o Git identificou o conflito e não conseguiu realizar a junção automaticamente.
-
-Para resolver, o arquivo foi aberto no VS Code, os marcadores de conflito foram identificados e removidos, e as duas informações foram mantidas no README. Depois, a alteração foi adicionada e registrada com um commit utilizando o padrão Conventional Commits.
-
-Essa atividade ajudou a compreender como o Git identifica alterações conflitantes e como realizar sua resolução manualmente.
+🔗 [Acessar págona do currículo](#)

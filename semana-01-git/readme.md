@@ -27,6 +27,7 @@ Exemplos:
 - `docs:` alterações na documentação.
 - `chore:` tarefas de configuração e manutenção.
 
+- - - 
 
 ## Resolução de conflito de merge
 
@@ -43,7 +44,10 @@ Para resolver, o arquivo foi aberto no VS Code, os marcadores de conflito foram 
 
 ![Soluçãodo erro](.//imagens/erro2.png)
 
-Depois desse erro, alterei os dados para as informações certas (mantendo apenas a semana 2 como html e css).
+Depois desse erro, alterei os dados para as informações certas (mantendo apenas a semana 2 como html e css). E ficou assim: 
+
+![Soluçãodo erro](.//imagens/erro3.png)
+
 
 ## Aprendizado
 
